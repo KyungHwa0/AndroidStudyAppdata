@@ -14,7 +14,7 @@
             android:title="ID"/>
         <ListPreference
             android:key="sound_list"
-            android:title="서버 메시지 알림음"
+            android:title="서버 메시지 알림"
             android:entries="@array/array_voice"
             android:entryValues="@array/array_voice"/>
     </PreferenceCategory>
